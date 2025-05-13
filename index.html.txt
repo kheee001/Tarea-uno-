@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ejercicio para practicar GIT y GITHUB</title>
+</head>
+<h1>Lista de Colaboradores</h1>
+<ol>
+    <li>Valentina Baldoni</li>
+</ol>
+<body>
+    
+</body>
+</html>
